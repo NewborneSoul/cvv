@@ -8,6 +8,16 @@ h1{
   font-size: 50px;
   padding-bottom: 20px;
 }
+h1:hover{
+  margin: 0px;
+  text-align: center;
+  position: relative;
+  top: 330px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 50px;
+  padding-bottom: 20px;
+  color: white;
+}
 h2{
   margin: 0px;
   text-align: center;
@@ -18,6 +28,17 @@ h2{
   padding-bottom: 50px;
   padding-top: 20px;
 }
+h2:hover{
+  margin: 0px;
+  text-align: center;
+  position: relative;
+  top: 310px;
+  font-family: 'Qwitcher Grypen', cursive;
+  font-size: 50px;
+  padding-bottom: 50px;
+  padding-top: 20px;
+  color: gold;
+ }
 body{
 	background: #FFCBAA;
 	margin: 0px;
@@ -45,9 +66,8 @@ a{
   margin-bottom: auto;
   margin-bottom: auto;
   margin-bottom: 3px;
-  padding-top: 310px;
   position: relative;
-  top: 27px;
+  top: 336px;
 }
 .scale1{
   display: inline;
@@ -182,12 +202,28 @@ a{
 	display: inline;
 	font-family: 'Raleway', sans-serif;
 }
+.social:hover{
+	margin: 25px 40px;
+	position: relative;
+	top: 30px;
+	color: paleturquoise;
+	display: inline;
+	font-family: 'Raleway', sans-serif;
+}
 .copyright{
 	display: inline;
 	margin: 30px auto;
 	position: relative;
 	top: 70px;
 	color: white;
+	font-family: 'Raleway', sans-serif;
+}
+.copyright:hover{
+	display: inline;
+	margin: 30px auto;
+	position: relative;
+	top: 70px;
+	color: paleturquoise;
 	font-family: 'Raleway', sans-serif;
 }
 .container1{
